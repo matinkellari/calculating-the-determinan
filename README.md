@@ -15,14 +15,17 @@ Matrix Templates
 
 2×2 Matrix
 
-[[A  B]
- [C  D]]
+[[ A  B ]
+
+ [ C  D ]]
 
 3×3 Matrix
 
-[[A  B  C]
- [D  E  F]
- [G  H  I]]
+[[ A    B    C ]
+
+ [ D    E    F ]
+ 
+ [ G    H    I ]]
 
 Users are prompted to enter a numerical value for each labeled element (A, B, C, etc.). After all values are provided, the program displays the completed matrix and calculates its determinant.
 
